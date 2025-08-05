@@ -40,11 +40,6 @@
                 </span>
             </button>
             <div class="menu__document shadow--medium simplebar-content">
-
-            <a class="menu--icon menu__content btListDoc active" title="diploma" data-path="https://cse-abaris-fileserver.s3.amazonaws.com/STORAGE/XML%20DIPLOMADO/2/057a0809-afda-4aa1-b1f7-1b7aaa4f1268.pdf?AWSAccessKeyId=ASIAYJY2E2K2675XFDYR&amp;Expires=1754424087&amp;x-amz-security-token=IQoJb3JpZ2luX2VjEBIaCXVzLWVhc3QtMSJHMEUCIBwTp%2BmTNe85KL9iRLoI4iS%2F6vWby62YYBcEAiH6wog2AiEA22rDM3sQLqvHe03FJxMzs%2F1c1H3SOJ6ZeIWt72KFs9gq6wMISxADGgw1NzA3NDg2MjE0OTMiDNSbRjntC1f16yjmoSrIA4tGXdkGvlHtr0V4lr9iggWt227njDm%2BUGoOxJ%2F23J5h%2FqyN27dP2pfuzmTz51pmo4j4sP9ZTpAK8SDJdOwJq82VwQtAAkiHs42YzXMXZnQ0j5nhrsVV1p3gm8XwfnHB1ATGn6fbj86wrWO9KATgXpS69KefilKkcwuiOl%2B3ZsteEzY8meeD1GvIsB3SCusv33FjblLrGRK4FaU8%2BCvhgZRa0saTcSc3Kpik4%2Bc78XHZIikJSK8rg8hbo840%2FdAbQG2gpzrBVdX%2FU0qNAgetYaosgUtkJXPHXsKsUG17DOe4CMMDAtMc1TP%2BvV4gis5I4hwyRMxqZNOt%2FTAhLNOedpO3Pz95WQ5eC6Ima9MhDD29I%2BRf1BwSbUQ1UjUWf8vo1ENkVvM1JktrTKy%2Byn6KWTxff8ty6gqwYf8ZEgbrqSTA5RmIx4XkpyfG1KC7j8g9beboEch%2BCZHAuBgelycaI4j%2FwL5br5ssN%2B1MIGScDDj%2FBPYdRUsVqTbn318d7J6tuxt%2BlD0DUVfGENB%2FFBokOVXrC2iCKxexv6SSD%2Beo%2FXRypmd7OK2czhQKJMUEWbCWvI1V4z8XzHbrT%2Bi7dA2klGg0C1K59QjVZTCI38PEBjqlAf%2FoTx2QaToQ9qIJT9bZOe2OSX6mIAbfZKc5ymEx6wmm1uVI0YfT3F5EMLp1%2FGLpMAS5twdakRIW99fgASfnRSdNMbvS5OPu4hj7aumUXn1pArVuinWX4%2FO3b9ZWL21dY8W4ad38C124o20moWFFmQkJGrJKvbqDVdpCyOgqud8wuSdJJk%2FaK71UO7xG%2FLr5g8Jkt1vedAQvkpJvhXAMoTh6Swk8iA%3D%3D&amp;Signature=U0oe64Yrit4F3xFo%2FrZrzlrPt3s%3D">
-								<i class="glyph ab-doc"></i>
-								<p class="menu__p">diploma</p>
-							</a></div>
         </div>
         <!-- Button zoomIn  -->
         <div class="grey-bar greybar--after radius--5 shadow--low">
